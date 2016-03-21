@@ -1,12 +1,3 @@
-
-
-/*
- test comment, couple lines of code in here lads
- blaaaaaaaaaaaaahhhhhhhhhhhh
- more blaaaaaaaaahhhhhhhhh!
-
- */
-
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
@@ -26,7 +17,10 @@ var app = express();
 var snmp = require('snmp-native');
 
 
-
+/*
+a space,
+new line
+ */
 
 /*
 below we are sending the data to the console and out to angular also via a http request
